@@ -1,0 +1,47 @@
+{
+  "name": "angular-project-rigger",
+  "version": "0.1.0",
+  "description": "this is a rigger for create angular project",
+  "main": "index.js",
+  "author": "jacob qiao",
+  "license": "MIT",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.11",
+    "angular2-template-loader": "^0.6.2",
+    "autoprefixer": "^7.1.2",
+    "babel-loader": "^7.1.1",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.28.4",
+    "css-to-string-loader": "^0.1.3",
+    "html-webpack-plugin": "^2.29.0",
+    "node-sass": "^4.5.3",
+    "postcss-loader": "^2.0.6",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "ts-loader": "^2.2.2",
+    "typescript": "^2.4.1",
+    "url-loader": "^0.5.9",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1",
+    "webpack-merge": "^4.1.0"
+  },
+  "dependencies": {
+    "@angular/common": "^4.2.6",
+    "@angular/compiler": "^4.2.6",
+    "@angular/core": "^4.2.6",
+    "@angular/forms": "^4.2.6",
+    "@angular/http": "^4.2.6",
+    "@angular/platform-browser": "^4.2.6",
+    "@angular/platform-browser-dynamic": "^4.2.6",
+    "@angular/router": "^4.2.6",
+    "core-js": "^2.4.1",
+    "events-polyfill": "^1.1.9",
+    "rxjs": "^5.4.2",
+    "systemjs": "^0.20.15",
+    "zone.js": "^0.8.13"
+  }
+}
