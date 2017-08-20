@@ -4,7 +4,7 @@
   "description": "this is a rigger for create angular project",
   "main": "index.js",
   "author": "jacob qiao",
-  "license": "MIT",
+  "license": "Augmentum",
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server"
   },
